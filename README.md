@@ -9,8 +9,8 @@ Hi. I'm a WordPress flexbox theme called Bulmapress.
 - Based on [Underscores](http://underscores.me/)
 - [Bulma](http://bulma.io) integration
 - Requires at least: [WordPress](http://wordpress.org) 4.0
-- Tested up to: [WordPress 5.0.3](https://wordpress.org/download/)
-- Stable tag: 0.0.3
+- Tested up to: [WordPress 5.7.4](https://wordpress.org/download/)
+- Stable tag: 0.0.4
 - License: [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Demo
@@ -31,6 +31,8 @@ Bulmapress includes support for Infinite Scroll in Jetpack.
 
 ## Changelog
 
+- *v0.0.5 - Aug 02 2021*:
+  - **Updated npm dependencies (bulma, node-sass)**
 - *v0.0.4 - Mar 02 2019*: 
   - **Updated Bulma to 0.7.4**
   - **Switched to [Bulma-Navwalker](https://github.com/Poruno/Bulma-Navwalker)**
